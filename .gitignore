@@ -1,0 +1,5 @@
+venv
+*.env
+*.spec
+Github_Automation.py
+chromedriver.exe

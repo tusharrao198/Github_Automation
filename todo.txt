@@ -1,0 +1,11 @@
+Goto projects folder
+create a folder for new projects
+create a README.md file
+Initialize git repository
+goto github and create new repository
+git remote add origin url
+git commit
+git push
+Open vs code - code.
+
+
