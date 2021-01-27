@@ -3,3 +3,4 @@ venv
 *.spec
 Github_Automation.py
 chromedriver.exe
+*.ico
